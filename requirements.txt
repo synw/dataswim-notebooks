@@ -8,3 +8,4 @@ gencharts==0.4
 goerr==0.7.1
 pytablewriter==0.26.1
 dataswim==0.3.7
+influxdb==4.1.1
