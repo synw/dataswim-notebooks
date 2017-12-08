@@ -8,4 +8,4 @@ goerr==0.7.1
 pytablewriter==0.27.1
 dataswim==0.4.2
 influxdb==4.1.1
-statsmodels=0.8.0
+statsmodels==0.8.0
