@@ -6,5 +6,5 @@ altair==1.2.1
 gencharts==0.4
 goerr==0.7.1
 pytablewriter==0.27.1
-dataswim==0.4.1
+dataswim==0.4.2
 influxdb==4.1.1
