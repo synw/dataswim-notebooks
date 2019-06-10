@@ -4,6 +4,8 @@ settings.py
 .project
 .pydevproject
 .settings
+raw
+.ipynb_checkpoints
 
 __pycache__/
 *.py[cod]
